@@ -13,7 +13,7 @@
 
 Which statement is true about JavaScript?
 
-- [ ] **A.** JavaScript is case insensitive, so `true` is the same as `True`.
+- [x] **A.** JavaScript is case insensitive, so `true` is the same as `True`.
 - [ ] **B.** JavaScript ignores whitespace characters like spaces and newline characters.
 - [ ] **C.** JavaScript requires you to end all statements with a semicolon (`;`).
 - [ ] **D.** All of the above are true.
